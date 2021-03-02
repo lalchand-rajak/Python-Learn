@@ -19,3 +19,5 @@ mytuple = ( 1, 4, 5, 9, "lalchand")
 
 for t in mytuple:
     print(t)
+
+print(tuple(range(0,10)))
